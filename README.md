@@ -8,7 +8,7 @@ CONTAÇÃO DE HISTÓRIAS PARA CONTAR ANTES DE DORMIR
   <body>
   <b>Aqui você pode contar a sua história para a galera se divertir</b></p>
     </body>
-    <a href="https://docs.google.com/document/d/EXEMPLO_LINK/edit" target="_blank">
+    <a href="https://docs.google.com/document/d/1uwJe1X9SZJIIt859Ky5WYQWM0DndRRUufMoB-XvB1I0/edit?usp=sharing" target="_blank">
         <button><em>CLIQUE AQUI PARA ESCREVER SUA HISTÓRIA</em></button>
     </a>
 </body>
